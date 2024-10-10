@@ -8,17 +8,9 @@
     "dev": "nodemon app.js",
      "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/omiras/emotional-shelf.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/omiras/emotional-shelf/issues"
-  },
-  "homepage": "https://github.com/omiras/emotional-shelf#readme",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
